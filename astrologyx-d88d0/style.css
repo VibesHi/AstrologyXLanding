@@ -1,0 +1,25 @@
+body {
+  background-color: #222; /* Dark grey background */
+  color: #ddd; /* Light grey text */
+  font-family: sans-serif;
+}
+
+h1, h2, h3 {
+  color: #eee; /* Lighter color for headings */
+}
+
+p, ul, li {
+  line-height: 1.6; /* Improved readability */
+}
+
+a {
+  color: #4285f4; /* Blue link color */
+}
+
+a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+strong {
+  font-weight: bold;
+}

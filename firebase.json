@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "astrologyx-d88d0",
+    "appAssociation": "AUTO",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
